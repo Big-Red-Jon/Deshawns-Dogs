@@ -1,5 +1,5 @@
 import { getPets, getWalkers } from "./database.js"
-import { Walkers } from "./Walkers.js"
+
 
 // Get copy of state for use in this module
 const pets = getPets()
